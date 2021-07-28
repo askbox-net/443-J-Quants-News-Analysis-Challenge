@@ -4,7 +4,6 @@
 
 
 - チーム名 / ユーザ名: fx.askbox.net
-- [リーダーボード](https://signate.jp/competitions/443/leaderboard){:target="_blank"}
-
-![Profile](./images/profile_60042.png)
+- [リーダーボード](https://signate.jp/competitions/443/leaderboard)
+[![Profile](./images/profile_60042.png)](https://signate.jp/users/60042)
 
